@@ -9,6 +9,7 @@ git clone https://github.com/sixfab/Sixfab_RPi_CellularIoT_App_Shield.git
 cd Sixfab_RPi_CellularIoT_App_Shield
 sudo python3 setup.py install
 ```
+[Sixfab_RPi_CellularIoT_App_Shield](https://github.com/sixfab/Sixfab_RPi_CellularIoT_App_Shield)
 
 **! Note:** Sixfab_RPi_CellularIoT_HAT uses the same python library with Sixfab_RPi_CellularIoT_App_Shield. 
 Please visit the library repo above. You can find the detailed instructions there. 
