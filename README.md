@@ -54,4 +54,4 @@ python3 sensor_test.py  #for testing sensor_test example
 ! All data pins work with 3.3V reference. Any other voltage level should harm your hat or RPI.
 
 # Layout
-![Layout](https://sixfab.com/wp-content/uploads/2019/04/RPi_Cell_IoT_Hat_Layout_2-e1555326485159.jpg)
+![Layout](https://sixfab.com/wp-content/uploads/2019/05/RPi_Cell_IoT_Hat_Layout_3-1-e1557136705232.jpg)
